@@ -3,12 +3,53 @@
 		{
 			"name":"salbutamol",
 			"image":"https://5.imimg.com/data5/YO/BW/MY-7293429/salbutamol-inhaler-500x500.jpg",
-			"points":"10"
+			"points":"30"
 		},
 		{
 			"name":"acetaminofen",
 			"image":"https://www.farmalisto.com.co/95305-thickbox_default/comprar-acetaminofen-500-mg-caja-x-100-tabletas-rx-precio-7706569020659.jpg",
 			"points":"5"
+		},
+		{
+			"name":"simvastatina",
+			"image":"http://www.ecss2006.com/TOPOS/KIK/100/ITALYImages/64.jpg",
+			"points":"20"
+		},
+		{
+			"name":"aspirina",
+			"image":"https://pbs.twimg.com/media/DMACIDWVQAASJdl.jpg",
+			"points":"1"
+		},
+		{
+			"name":"omeprazol",
+			"image":"https://pharmacy-new.org/image/cache/data/mx/pharmasy/4537-large_default-600x600.jpg",
+			"points":"10"
+		},
+		{
+			"name":"levotiroxina sódica",
+			"image":"https://lh3.googleusercontent.com/proxy/yWCMowzieScifZdxg2y_JopbSo-zoHVydijTlbeZR61TYBnkbkT428aZR_5Nbsm4W6KOhji6BFUHkY9WVxWEozZLekwf_6fRrZEw0xvn0SQiMezg9clAtDkCiNE6AuggsQ_9EMEkvCmKxW416pSzXqUTSw=s530-p",
+			"points":"12"
+		},
+		{
+			"name":"ramipril",
+			"image":"https://lh3.googleusercontent.com/proxy/yWCMowzieScifZdxg2y_JopbSo-zoHVydijTlbeZR61TYBnkbkT428aZR_5Nbsm4W6KOhji6BFUHkY9WVxWEozZLekwf_6fRrZEw0xvn0SQiMezg9clAtDkCiNE6AuggsQ_9EMEkvCmKxW416pSzXqUTSw=s530-p",
+			"points":"13"
+		},
+		{
+			"name":"amlodipina",
+			"image":"https://drugsdetails.com/wp-content/uploads/2016/04/Norvasc-Amlodipine-10-mg-tablet.jpg",
+			"points":"9"
+		},
+		{
+			"name":"paracetamol",
+			"image":"https://cdn.ipetitions.com/user-images/petitions/regulate-the-amount-of-paracetamol-that-people-are/UOc2Y1WfS0uCy7rhmGnp_image.jpg",
+			"points":"22"
+		}
+		,
+		{
+			"name":"lansoprazol",
+			"image":"https://mexipharmacy.mx/mystore/item/1728/bb/palatrin-lansoprazole-14-tab-30-mg",
+			"points":"18"
 		}
 	]
 }
