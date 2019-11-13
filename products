@@ -1,0 +1,12 @@
+{
+	"productos":[
+		{
+			"name":"salbutamol",
+			"image":"https://5.imimg.com/data5/YO/BW/MY-7293429/salbutamol-inhaler-500x500.jpg"
+		},
+		{
+			"name":"acetaminofen",
+			"image":"https://www.farmalisto.com.co/95305-thickbox_default/comprar-acetaminofen-500-mg-caja-x-100-tabletas-rx-precio-7706569020659.jpg"
+		}
+	]
+}
