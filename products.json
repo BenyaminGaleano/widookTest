@@ -1,6 +1,3 @@
-<html>
-<head><title>Productos</title></head>
-<body>
 {
 	"productos":[
 		{
@@ -13,5 +10,3 @@
 		}
 	]
 }
-</body>
-</html>
