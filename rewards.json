@@ -1,3 +1,28 @@
 {
-	"rewards":[]
+	"rewards":[
+		{
+			"name":"Crucero",
+			"points":"30000",
+			"image":"https://maravilloso.exclusivetravelerclub.com/wp-content/uploads/2017/06/ruta-crucero-caribe.jpg",
+			"description":"Un viaje por el Caribe con todos los gastos pagados para dos personas"
+		},
+		{
+			"name":"Televisor",
+			"points":"6000",
+			"image":"http://www.220-electronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-ua-32d4003-multi-system-tv.jpg",
+			"description":"Televisor de 50 pulgadas marca Samsung"
+		},
+		{
+			"name":"Equipo de Sonido",
+			"points":"5000",
+			"image":"https://maravilloso.exclusivetravelerclub.com/wp-content/uploads/2017/06/ruta-crucero-caribe.jpg",
+			"description":"Un viaje por el mar Pacifico con todos los gastos pagados para dos personas"
+		},
+		{
+			"name":"iPad Pro",
+			"points":"15000",
+			"image":"https://cdn.cgmagonline.com/wp-content/uploads/2019/02/ipad-pro-2018-review.jpg",
+			"description":"iPad Pro"
+		}
+	]
 }
