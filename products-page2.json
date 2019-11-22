@@ -1,0 +1,20 @@
+{
+	"products":[
+		{
+            "name":"Amoxicilina",
+            "image":"http://www.gusherstijuana.com/gu3img/Amoxicilina1.JPG",
+            "points":"19"
+        },
+        {
+            "name":"Doxiciclina",
+            "image":"http://foromed.com/wp-content/uploads/2017/09/doxiciclina.jpg",
+            "points":"20"
+        },
+        {
+            "name":"Ciprofloxacina",
+            "image":"https://www.farmalisto.com.co/94661-large_default/ciprofloxacina-500-mg-x-10-tabletas-recubiertas-antibiotico-7703763080618.jpg",
+            "points":"20"
+        }
+	],
+	"next":null
+}
