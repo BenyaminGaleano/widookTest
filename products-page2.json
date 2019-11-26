@@ -2,16 +2,19 @@
 	"products":[
 		{
             "name":"Amoxicilina",
+            "tradename":"test",
             "image":"http://www.gusherstijuana.com/gu3img/Amoxicilina1.JPG",
             "points":"19"
         },
         {
             "name":"Doxiciclina",
+            "tradename":"test",
             "image":"https://www.easyfarma.cl/wp-content/uploads/2018/05/7800007175076.jpg",
             "points":"20"
         },
         {
             "name":"Ciprofloxacina",
+            "tradename":"test",
             "image":"https://www.farmalisto.com.co/94661-large_default/ciprofloxacina-500-mg-x-10-tabletas-recubiertas-antibiotico-7703763080618.jpg",
             "points":"20"
         }
